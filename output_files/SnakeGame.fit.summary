@@ -1,0 +1,18 @@
+Fitter Status : Successful - Mon Apr 12 18:50:57 2021
+Quartus Prime Version : 20.1.0 Build 711 06/05/2020 SJ Lite Edition
+Revision Name : SnakeGame
+Top-level Entity Name : SnakeGame
+Family : MAX 10
+Device : 10M50DAF484C6GES
+Timing Models : Preliminary
+Total logic elements : 355 / 49,760 ( < 1 % )
+    Total combinational functions : 338 / 49,760 ( < 1 % )
+    Dedicated logic registers : 127 / 49,760 ( < 1 % )
+Total registers : 127
+Total pins : 18 / 360 ( 5 % )
+Total virtual pins : 0
+Total memory bits : 0 / 1,677,312 ( 0 % )
+Embedded Multiplier 9-bit elements : 0 / 288 ( 0 % )
+Total PLLs : 0 / 4 ( 0 % )
+UFM blocks : 0 / 1 ( 0 % )
+ADC blocks : 0 / 2 ( 0 % )

@@ -1,0 +1,16 @@
+Analysis & Synthesis Status : Successful - Mon Apr 12 18:50:47 2021
+Quartus Prime Version : 20.1.0 Build 711 06/05/2020 SJ Lite Edition
+Revision Name : SnakeGame
+Top-level Entity Name : SnakeGame
+Family : MAX 10
+Total logic elements : 349
+    Total combinational functions : 337
+    Dedicated logic registers : 127
+Total registers : 127
+Total pins : 18
+Total virtual pins : 0
+Total memory bits : 0
+Embedded Multiplier 9-bit elements : 0
+Total PLLs : 0
+UFM blocks : 0
+ADC blocks : 0

@@ -1,0 +1,14 @@
+`timescale 1ns/1ns
+module tb();
+
+reg clk = 0;
+wire refresh_clk;
+
+ClockDivider2 dut(.clk(clk), .refresh_clk(refresh_clk));
+
+initial begin
+forever #10 clk = ~clk;
+end
+
+
+endmodule

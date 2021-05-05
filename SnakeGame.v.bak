@@ -1,0 +1,18 @@
+//main module
+module SnakeGame(input pb,clk, output signal);
+
+reg out_signal;
+
+always @(posedge clk)
+begin
+
+	if(pb == 1)
+		out_signal = 1;
+	else
+		out_signal = 0;
+
+end
+
+assign signal = out_signal;
+
+endmodule 
